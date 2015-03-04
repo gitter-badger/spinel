@@ -1,6 +1,8 @@
 ![alt tag](http://spirtfire.com/res/img/spinel.png)
 ======
 # Spinel: A fast web MVC framework based on BRB
+
+[![Join the chat at https://gitter.im/homerquan/spinel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/homerquan/spinel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![alt tag](http://spirtfire.com/res/img/spinel-screen.png)
 (Still documenting how to use it, please be patient)
 
